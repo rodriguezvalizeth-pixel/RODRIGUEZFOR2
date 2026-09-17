@@ -1,3 +1,0 @@
-#AL3 FAP RODRIGUEZ VARGAS MAYUMI. NSA:613658 #
-#ESPECIALIDAD: INFORMATICA AÑO:III#
-print("Evaluacion practica formativa 3")
